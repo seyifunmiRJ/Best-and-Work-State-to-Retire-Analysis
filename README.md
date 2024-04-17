@@ -17,9 +17,13 @@ Data visualization was performed using Power BI. A bar chart showing the top 10 
 
 # Findings:
 Affordability: States like West Virginia, Mississippi, and Arkansas rank high in affordability, indicating lower living costs relative to other states. 
+
 Quality/Cost of Healthcare: States like Hawaii, Massachusetts, and Vermont rank high in healthcare quality/cost, indicating access to quality healthcare services relative to their cost.
+
 Well-being: Hawaii consistently ranks high in well-being, suggesting a high quality of life for residents. Other states like Utah, Minnesota, and Colorado also perform well in this category, indicating favorable living conditions and overall satisfaction among residents.
+
 Weather Comfort: States like Hawaii, California, and Florida rank high in weather comfort, likely due to their mild climates and ample sunshine. On the other hand, states like Alaska and North Dakota rank lower in weather comfort, likely due to their colder climates.
+
 Crime Rate: States like Vermont, Maine, and New Hampshire rank low in crime, indicating safer communities. On the reverse, states like Alaska and Louisiana rank higher in crime, suggesting higher levels of crime and potentially lower safety levels.
 
 ------------
